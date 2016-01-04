@@ -23,7 +23,15 @@ Drawbacks:
 
    o No documentation (read the shell scripts to start with).
 
+   o No real error messages in the type-checking phase.
+
    o This is really an alpha version. Expect breakage.
+
+
+License:
+========
+
+   o Q-Public License. Modifications must be distributed in the form of patches.
 
 
 Author:
