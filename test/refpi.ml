@@ -1,5 +1,4 @@
-(* Example from Appel's Modern Compiler Implementation in ML, translated
-   to Caml. *)
+(* Pi benchmark, using refs *)
 
 let ref x = { contents = x }
 let (!) x = x.contents

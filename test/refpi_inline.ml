@@ -1,5 +1,4 @@
-(* Example from Appel's "Modern Compiler Implementation in ML", translated
-   to Caml. *)
+(* Pi benchmark, using inlined refs *)
 
 
 let pi_float () =
